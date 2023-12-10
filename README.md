@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cameronsoller95
+- 👋 Hi
 - 👀 I’m interested in all things computers 
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me ... ask
 
